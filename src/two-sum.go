@@ -1,4 +1,4 @@
-package cracking_in_go
+package src
 
 func twoSum(nums []int, target int) []int {
 	hm := make(map[int]int)
